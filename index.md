@@ -1,6 +1,12 @@
 # Mehdi's page
-Hello, I am a **Mathematics and Computer Science** major at _University of California, San Diego_. I aspire to be an entrepreneur in the industry of Computer Science. I value `good character`,
-`hard work`, and `faith`. If you want to know a little more about my personal life then you can [jump here](#a-little-bit-of-my-background) If you want to look more into my professional life here is my `linkedin` [click here.](https://www.linkedin.com/in/mehdiaziz/) If you need my PID for some reason [Click here]()
+Hello, I am a **Mathematics and Computer Science** major at _University of California, San Diego_. I aspire to be an entrepreneur in the industry of Computer Science. I value `good character`,`hard work`, and `faith`. I want the knowledge and skills which i've attained to be useful for those in need.
+
+If you want to know a little more about my personal life then you can [jump here.](#a-little-bit-of-my-background) 
+
+If you want to look more into my professional life here is my [linkedin.](https://www.linkedin.com/in/mehdiaziz/) 
+
+If you need my PID for some reason [Click here.](README.md)
+
 In my free time you will **definately** find me watching `anime`. My favorite anime is **Naruto** because it teaches so many valuable life lessons, like **Never Giving Up**.
 Some sayings from the array of things that i've watched which still resonate with me are:
 > Set Your Heart Ablaze.
