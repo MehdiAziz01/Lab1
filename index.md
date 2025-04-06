@@ -1,5 +1,5 @@
 # Mehdi's page
-Hello, I am a **Mathematics and Computer Science** major at _University of California, San Diego_. I aspire to be an entrepreneur in the industry of Computer Science. I value `good character`,`hard work`, and `faith`. I want the knowledge and skills which i've attained to be useful for those in need.
+Hello, I am a **Mathematics and Computer Science** major at _University of California, San Diego_. I aspire to be an entrepreneur in the industry of <ins>Computer Science</ins>. I value `good character`,`hard work`, and `faith`. I want the knowledge and skills which i've attained to be useful for those in need.
 
 If you want to know a little more about my personal life then you can [jump here.](#a-little-bit-of-my-background) 
 
